@@ -1,6 +1,6 @@
 # winerr
-Windowsのエラーを再現するWebアプリケーションをこぴーしたものです。
-##　どうやってインストールするの？ (Windows)
+Windowsのエラーを再現するWebアプリケーションをコピーしたものです。
+## どうやってインストールするの？ (Windows)
 1. まずは [Node.js](https://nodejs.org/en/download) を持っていなければDLする。
 2. 任意のディレクトリの中のリポジトリファイルを全部解凍する。
 3. このフォルダをコマンドプロンプト（cmd.exe）か、Windows Powershellを使って開く。
